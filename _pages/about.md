@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-preprints: ["UniTTA", "SDA"]
+preprints: ["SDA"]
 journal_papers: ["ProCo", "HSP"]
 conference_papers: ["SimPro", "RISA"]
 ---
