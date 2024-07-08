@@ -1,0 +1,12 @@
+- name: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  abbreviation: "TPAMI"
+  display: IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong><span style="color:red">TPAMI</span></strong>, IF=20.8)
+- name: "International Conference on Machine Learning"
+  abbreviation: "ICML"
+  display: International Conference on Machine Learning (<strong>ICML</strong>)
+- name: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  abbreviation: "TSMC-S"
+  display: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (<strong>TSMC-S</strong>, IF=8.6)"
+- name: "AAAI Conference on Artificial Intelligence"
+  abbreviation: "AAAI"
+  display: "AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)"
