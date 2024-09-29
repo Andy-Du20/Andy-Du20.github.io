@@ -12,7 +12,7 @@ conference_papers: ["SimPro", "RISA"]
 
 # Bio
 
-I am a fourth-year Ph.D. candidate in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](https://www.gaohuang.net/).
+I am a fifth-year Ph.D. candidate in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](https://www.gaohuang.net/).
 Prior to this, I earned my Bachelor of Science degree in Mathematics and Physics from the Department of Physics at Tsinghua University in 2020.
 
 My research primarily focuses on machine learning under mismatched distribution, including areas such as long-tailed learning and domain adaptation.
