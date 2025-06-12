@@ -5,9 +5,9 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-preprints: ["UniTTA"]
+#preprints: ["UniTTA"]
 journal_papers: ["ProCo", "HSP"]
-conference_papers: ["SimPro", "RISA"]
+conference_papers: ["SwiTTA", "UniTTA", "SimPro", "RISA"]
 ---
 
 # Bio
@@ -19,6 +19,7 @@ My research primarily focuses on machine learning under mismatched distribution,
 
 # News
 
+- [06/2025] Two papers are accepted by **ICML** 2025 PUT Workshop.
 - [05/2024] One paper is accepted by **ICML** 2024.
 - [02/2024] One paper is accepted by **TPAMI**.
 
