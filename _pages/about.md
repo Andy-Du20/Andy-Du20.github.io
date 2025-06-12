@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 preprints:
 journal_papers: ["ProCo", "HSP"]
-conference_papers: ["SwiTTA", "UniTTA", "SimPro", "RISA", "SDA"]
+conference_papers: ["SwiTTA", "UniTTA", "SimPro", "RISA"]
 ---
 
 # Bio
