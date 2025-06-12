@@ -5,9 +5,9 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-preprints: ["ProCo"]
+preprints:
 journal_papers: ["ProCo", "HSP"]
-conference_papers: ["SwiTTA", "UniTTA", "SimPro", "RISA"]
+conference_papers: ["SwiTTA", "UniTTA", "SimPro", "RISA", "SDA"]
 ---
 
 # Bio
