@@ -17,7 +17,7 @@ Prior to this, I earned my Bachelor of Science degree in Mathematics and Physics
 
 My research primarily focuses on machine learning under mismatched distribution, including areas such as long-tailed learning and test-time adaptation.
 
-I’m on job market now! If you are interested in me, contact me via Email (dcq20@mails.tsinghua.edu.cn).
+I’m on job market now! If you are interested in me, contact me via Email.
 
 # News
 
