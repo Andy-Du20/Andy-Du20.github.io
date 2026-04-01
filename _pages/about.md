@@ -12,17 +12,16 @@ conference_papers: ["SwiTTA", "UniTTA", "SimPro", "RISA"]
 
 # Bio
 
-I am a quantitative researcher. I completed my Ph.D. in the Department of Automation at Tsinghua University in October 2025.
-Prior to this, I earned my Bachelor of Science degree in Mathematics and Physics from the Department of Physics at Tsinghua University in 2020.
+I am a quantitative researcher with a Ph.D. in Automation from Tsinghua University (2025). Prior to this, I earned my B.S. in Mathematics and Physics from Tsinghua University (2020).
 
-My research primarily focuses on machine learning under mismatched distribution, including areas such as long-tailed learning and test-time adaptation.
+My research focuses on machine learning under distribution mismatch, including long-tailed learning and test-time adaptation.
 
 # News
 
-- [10/2025] Graduated from Tsinghua University with a Ph.D. degree.
-- [06/2025] Two papers are accepted by **ICML** 2025 PUT Workshop.
-- [05/2024] One paper is accepted by **ICML** 2024.
-- [02/2024] One paper is accepted by **TPAMI**.
+- **[10/2025]** Ph.D. graduated from Tsinghua University.
+- **[06/2025]** Two papers accepted at **ICML** 2025 PUT Workshop.
+- **[05/2024]** One paper accepted at **ICML** 2024.
+- **[02/2024]** One paper accepted by **TPAMI**.
 
 # Selected Publications
 
