@@ -19,13 +19,6 @@ My research primarily focuses on machine learning under mismatched distribution,
 
 # Selected Publications
 
-## Preprints
-
-{% for item in page.preprints %}
-{% assign post = site.publications | where: "name", item | first %}
-{% include archive-single.html %}
-
----
 
 {% endfor %}
 
