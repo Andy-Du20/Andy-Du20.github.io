@@ -42,9 +42,15 @@ My research primarily focuses on machine learning under mismatched distribution,
 
 {% endfor %}
 
-<style>
-.archive__item-title a,
-.archive__item:hover .archive__item-title {
-    text-decoration: none !important;
-}
-</style>
+<script>
+document.querySelectorAll('.archive__item').forEach(item => {
+    const titleLink = item.querySelector('.archive__item-title > a');
+    const paperLink = item.querySelector('p > a');
+
+    if (titleLink && paperLink) {
+        titleLink.href = paperLink.href;
+        titleLink.target = '_blank';
+        titleLink.rel = 'noopener noreferrer';
+    }
+});
+</script>
