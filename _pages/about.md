@@ -41,3 +41,10 @@ My research primarily focuses on machine learning under mismatched distribution,
 ---
 
 {% endfor %}
+
+<style>
+.archive__item-title a,
+.archive__item:hover .archive__item-title {
+    text-decoration: none !important;
+}
+</style>
